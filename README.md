@@ -1,8 +1,9 @@
-# Rock-Scissor-paper-
-Rock scissor paper game 
-source code :
+# Rock-Scissor-paper<br>
+Rock scissor paper game <br>
+Source code :
 import java.util.Scanner;
 import java.util.Random;
+<br>
 // user defined exception
 class InvalidInputException extends Exception
 {
